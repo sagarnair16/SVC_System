@@ -1,0 +1,5 @@
+netstat -ano | findstr :8080
+taskkill /PID typeyourPIDhere /F
+
+Key:ppelymprofarieseseltyper
+Password:00662bacae4403257af1d82f821beca5f4edf9ec
